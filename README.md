@@ -34,7 +34,7 @@ The dashboard highlights:
 - **KPIs** → Revenue, order volume, growth rate, etc.
 
 ## 📸 Screenshots
-
+https://github.com/Bicksona/Blinkit-Dashboard/blob/main/Dashboard%20Screenshot.png
 
 ## ✨ Future Enhancements
 - Integration with real-time datasets
@@ -42,8 +42,8 @@ The dashboard highlights:
 - Automated reporting with Power BI Service
 
 ## 👨‍💻 Author
-Developed by **[Your Name]**  
-📧 Contact: [Your Email]  
+Developed by **[Bickson]**  
+📧 Contact: [bickson2004@gmail.com]  
 
 ---
 ⭐ If you find this project helpful, don’t forget to star the repo!
