@@ -13,6 +13,7 @@ The dashboard provides a comprehensive view of sales, customers, and operational
 
 ## 📂 File Structure
 - `BLINKIT.pbix` → Main Power BI dashboard file
+- `BlinkIT Grocery Data.xlsx` → Main Dataset
 
 ## 🛠 Requirements
 To use this project, you need:
@@ -34,7 +35,7 @@ The dashboard highlights:
 - **KPIs** → Revenue, order volume, growth rate, etc.
 
 ## 📸 Screenshots
-https://github.com/Bicksona/Blinkit-Dashboard/blob/main/Dashboard%20Screenshot.png
+![image alt](https://github.com/Bicksona/Blinkit-Dashboard/blob/86505737419e658d2c721ceab622e6f7d9ebfb2f/Dashboard%20Screenshot.png)
 
 ## ✨ Future Enhancements
 - Integration with real-time datasets
